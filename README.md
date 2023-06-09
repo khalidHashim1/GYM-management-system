@@ -4,4 +4,5 @@
 - only issue in this code is in one file. 
 - Hope you enjoy debuging the code. 
 - There's one error in the code it's in the Payment panel jcombobox have a bug after the method "connectStartRefresh" runs combo box wont' work. 
+- Data Base is avalible also but i didn't upload it since it's easy todo.
 - All the best. 
